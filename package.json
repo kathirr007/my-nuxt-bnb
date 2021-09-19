@@ -1,0 +1,25 @@
+{
+  "name": "my-nuxt-bnb",
+  "version": "1.0.0",
+  "description": "A production ready AirBnB clone using Nuxt from the Course Mastering Nuxt by Josh Deltener",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kathirr007/my-nuxt-bnb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kathirr007/my-nuxt-bnb/issues"
+  },
+  "homepage": "https://github.com/kathirr007/my-nuxt-bnb#readme",
+  "dependencies": {
+    "nuxt": "^2.15.8"
+  }
+}
